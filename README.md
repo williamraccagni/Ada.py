@@ -5,10 +5,11 @@ Upload of the Statistical Methods for Machine Learning exam project on Adaboost 
 This software requires **Python3**, available [here](https://www.python.org/)
 
 ## How to use it
-Type into bash the following code:
+Type in bash the following code:
 
 ```
-sdsdsd
+python .\Adaboost.py T
 ```
+The parameter T indicates the number of decision stumps to be used. These are generated automatically in the code from the dataset.
 
-fdfdf
+## Results obtained
