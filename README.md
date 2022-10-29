@@ -10,6 +10,13 @@ Type in bash the following code:
 ```
 python .\Adaboost.py T
 ```
+\*It can be python3 based on the environment variable.
+
 The parameter T indicates the number of decision stumps to be used. These are generated automatically in the code from the dataset.
 
+One possible execution is as follows:
+
+```
+python .\Adaboost.py 200
+```
 ## Results obtained
